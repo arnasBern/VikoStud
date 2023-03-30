@@ -1,5 +1,11 @@
 # VikoStud_uzd1
 https://leetcode.com/problems/valid-palindrome/
+
+
+
+
+
+
 #include  <iostream>
 
 using namespace std;
@@ -26,6 +32,9 @@ int main(){
         cout << test2 <<" ==> is not a palindrome" << endl;
                                                           
 
+                                                          
+                                                          
+                                                          
 
 Problema-patikrinti ar simboliu seka yra palindromas.
 Analizė:
